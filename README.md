@@ -1,1 +1,1 @@
-# Digital-Image-Processing-from-Scratch
+# Digital Image Processing from Scratch using Python
